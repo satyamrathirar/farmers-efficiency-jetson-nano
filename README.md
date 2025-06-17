@@ -43,7 +43,7 @@ Located in `Hough-transform-laneDetection/`, this component implements lane dete
 1. Clone the repository:
 ```bash
 git clone [repository-url]
-cd jetson-nano-enhance-farmers-efficiency
+cd farmers-efficiency-jetson-nano
 ```
 2. Setup the environment with required dependencies on jetson nano.
 
