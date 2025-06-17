@@ -70,7 +70,7 @@ python detect_using_onnx.ipynb
 ### Lane Detection
 Open and run the Jupyter notebook in the Hough-transform-laneDetection directory.
 
-### Contributors
+## Contributors
 - [Soham Kukreti](https://github.com/SohamKukreti)
 - [Yuvraj Rathi](https://github.com/yryuvraj)
 - [Satyam Rathi](https://github.com/satyamrathirar)
